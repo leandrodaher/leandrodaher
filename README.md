@@ -5,6 +5,11 @@ Também gosto de desenvolver joguinhos em HTML5 + Javascript.
 
 No entando, quero ressaltar que ainda estou organizando meu Github. Em breve postarei mais projetos práticos por aqui!
 
+-----------------
+Hi, thanks for getting this far! I'm currently studying technologies like ReactJS, VueJS, React Native and NodeJS. I plan to study .NET Core (C #) and Flutter soon. I also like to develop games in HTML5 + Javascript.
+
+However, I want to emphasize that I'm still organizing my Github. Soon I'll post more practical projects here!
+
 <!--
 **leandrodaher/leandrodaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
