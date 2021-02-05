@@ -6,13 +6,16 @@ No entando, quero ressaltar que ainda estou organizando meu Github. Em breve pos
 
 ### Projeto atual
 [Birdder](https://github.com/leandrodaher/birdder)  A Simple PHP Blog Based On Twitter
+
 Birdder é uma rede social similar ao twitter, porém em formato de blog muito simplificado com o objetivo de estudar a linguagem PHP, arquitetura MVC, orientação a objetos e conexão com banco de dados.
 
 ### Repositórios recentes
 [Todux](https://github.com/leandrodaher/Todux)  Todo App Arquitetura Flux
-Aplicativo Web ReactJS feito para estudar os conceitos básicos por trás da arquitetura Flux utiliando a biblioteca Redux.
+
+Aplicativo Web ReactJS feito para estudar os conceitos básicos por trás da arquitetura Flux utilizando a biblioteca Redux.
 
 [Happy NLW3](https://github.com/leandrodaher/happy-nlw3) Projeto Backend + Web + Mobile desenvolvido na NLW3 da Rocketseat
+
 Estudo das tecnologias Typescript, NodeJS, TypeORM, ReactJS, React Native e SQLite.
 
 -----------------
@@ -22,13 +25,16 @@ However, I want to emphasize that I'm still organizing my Github. Soon I'll post
 
 ### Current project
 [Birdder](https://github.com/leandrodaher/birdder) A Simple PHP Blog Based On Twitter
+
 Birdder is a social network similar to twitter, but in a very simplified blog format with the aim of studying the PHP language, MVC architecture, object orientation and database connection.
 
 ### Recent repositories
 [Todux](https://github.com/leandrodaher/Todux) Todo App Arquitetura Flux
+
 ReactJS web application designed to study the basic concepts behind the Flux architecture using the Redux library.
 
-[Happy NLW3](https://github.com/leandrodaher/happy-nlw3) Backend + Web + Mobile project developed on Rocketseat's NLW3.
+[Happy NLW3](https://github.com/leandrodaher/happy-nlw3) Backend + Web + Mobile project developed on Rocketseat's NLW3
+
 Study of Typescript, NodeJS, TypeORM, ReactJS, React Native and SQLite technologies.
 
 -----------------
