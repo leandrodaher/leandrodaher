@@ -5,7 +5,7 @@ Olá, obrigado por chegar até aqui! Sou estudante de Sistemas de Informação e
 No entando, quero ressaltar que ainda estou organizando meu Github. Em breve postarei mais projetos práticos por aqui!
 
 ### Projeto atual
-[Birdder](https://github.com/leandrodaher/birdder)  A Simple PHP Blog Based On Twitter
+[Birdder](https://github.com/leandrodaher/Birdder)  A Simple PHP Blog Based On Twitter
 
 Birdder é uma rede social similar ao twitter, porém em formato de blog muito simplificado com o objetivo de estudar a linguagem PHP, arquitetura MVC, orientação a objetos e conexão com banco de dados.
 
