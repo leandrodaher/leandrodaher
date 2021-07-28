@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-Olá, obrigado por chegar até aqui! Sou estudante de Sistemas de Informação e trabalho com Suporte Técnico. Atualmente estou praticando ReactJS, React Native e NodeJS. Planejo aprender a desenvolver apps em Flutter. Também gosto de desenvolver joguinhos em HTML5 + Javascript.
+Olá, obrigado por chegar até aqui! Sou dev PHP (Zend Framework) e estudante de bacharelado em Sistemas de Informação. Atualmente estou estudando Laravel, ReactJS e React Native. Planejo aprender a desenvolver apps em Flutter no futuro. Também gosto de desenvolver joguinhos em Javascript com Canvas.
 
 No entando, quero ressaltar que ainda estou organizando meu Github. Em breve postarei mais projetos práticos por aqui!
-
-### Projeto atual
-[Birdder](https://github.com/leandrodaher/Birdder)  A Simple PHP Blog Based On Twitter
-
-Birdder é uma rede social similar ao twitter, porém em formato de blog muito simplificado com o objetivo de estudar a linguagem PHP, arquitetura MVC, orientação a objetos e conexão com banco de dados.
 
 ### Repositórios recentes
 [Todux](https://github.com/leandrodaher/Todux)  Todo App Arquitetura Flux
@@ -19,14 +14,9 @@ Aplicativo Web ReactJS feito para estudar os conceitos básicos por trás da arq
 Estudo das tecnologias Typescript, NodeJS, TypeORM, ReactJS, React Native e SQLite.
 
 -----------------
-Hi, thanks for getting this far! I am a student of Information Systems and I work with Technical Support. I am currently practicing ReactJS, React Native and NodeJS. I plan to learn how to develop apps in Flutter. I also like to develop games in HTML5 + Javascript.
+Hi, thanks for getting this far! I'm a PHP dev (Zend Framework) and bachelor's degree student in Information Systems. I'm currently studying Laravel, ReactJS and React Native. I plan to learn how to develop apps in Flutter in the future. I also like to develop little games in Javascript with Canvas.
 
 However, I want to emphasize that I'm still organizing my Github. Soon I'll post more practical projects here!
-
-### Current project
-[Birdder](https://github.com/leandrodaher/birdder) A Simple PHP Blog Based On Twitter
-
-Birdder is a social network similar to twitter, but in a very simplified blog format with the aim of studying the PHP language, MVC architecture, object orientation and database connection.
 
 ### Recent repositories
 [Todux](https://github.com/leandrodaher/Todux) Todo App Arquitetura Flux
