@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Olá, obrigado por chegar até aqui! Sou dev PHP (Zend Framework) e estudante de bacharelado em Sistemas de Informação. Atualmente estou estudando Laravel, ReactJS e React Native. Planejo aprender a desenvolver apps em Flutter no futuro. Também gosto de desenvolver joguinhos em Javascript com Canvas.
-
-No entando, quero ressaltar que ainda estou organizando meu Github. Em breve postarei mais projetos práticos por aqui!
+Olá, obrigado por chegar até aqui! Sou dev PHP (Zend Framework) e estudante de bacharelado em Sistemas de Informação. Atualmente estou estudando Domain Driven Design, Clean Architecture. NodeJS, Typescript e Laravel.
 
 ### Repositórios recentes
 [Todux](https://github.com/leandrodaher/Todux)  Todo App Arquitetura Flux
@@ -14,9 +12,7 @@ Aplicativo Web ReactJS feito para estudar os conceitos básicos por trás da arq
 Estudo das tecnologias Typescript, NodeJS, TypeORM, ReactJS, React Native e SQLite.
 
 -----------------
-Hi, thanks for getting this far! I'm a PHP dev (Zend Framework) and bachelor's degree student in Information Systems. I'm currently studying Laravel, ReactJS and React Native. I plan to learn how to develop apps in Flutter in the future. I also like to develop little games in Javascript with Canvas.
-
-However, I want to emphasize that I'm still organizing my Github. Soon I'll post more practical projects here!
+Hi, thanks for getting here! I'm a PHP (Zend Framework) dev and a bachelor's student in Information Systems. I am currently studying Domain Driven Design, Clean Architecture. NodeJS, Typescript and Laravel.
 
 ### Recent repositories
 [Todux](https://github.com/leandrodaher/Todux) Todo App Arquitetura Flux
