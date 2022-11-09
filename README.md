@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Olá, obrigado por chegar aqui! Este é o meu perfil de estudos pessoais. Para vero meu perfil profissional [Clique Aqui](https://github.com/dhrleandro)
+Olá, obrigado por chegar aqui! Este é o meu perfil de estudos pessoais. Para ver o meu perfil profissional [Clique Aqui](https://github.com/dhrleandro)
+
 [https://github.com/dhrleandro](https://github.com/dhrleandro)
 
 -----------------
 Hi, thanks for coming here! This is my personal studies profile. To see my professional profile [Click Here](https://github.com/dhrleandro)
+
 [https://github.com/dhrleandro](https://github.com/dhrleandro)
 
 -----------------
