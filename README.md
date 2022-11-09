@@ -1,27 +1,11 @@
 ### Hi there 👋
 
-Olá, obrigado por chegar até aqui! Sou dev PHP (Zend Framework) e estudante de bacharelado em Sistemas de Informação. Atualmente estou estudando Domain Driven Design, Clean Architecture, NodeJS, Typescript e Laravel.
-
-### Repositórios recentes
-[Todux](https://github.com/leandrodaher/Todux)  Todo App Arquitetura Flux
-
-Aplicativo Web ReactJS feito para estudar os conceitos básicos por trás da arquitetura Flux utilizando a biblioteca Redux.
-
-[Happy NLW3](https://github.com/leandrodaher/happy-nlw3) Projeto Backend + Web + Mobile desenvolvido na NLW3 da Rocketseat
-
-Estudo das tecnologias Typescript, NodeJS, TypeORM, ReactJS, React Native e SQLite.
+Olá, obrigado por chegar aqui! Este é o meu perfil de estudos pessoais. Para vero meu perfil profissional [Clique Aqui](https://github.com/dhrleandro)
+[https://github.com/dhrleandro](https://github.com/dhrleandro)
 
 -----------------
-Hi, thanks for getting here! I'm a PHP (Zend Framework) dev and a bachelor's student in Information Systems. I am currently studying Domain Driven Design, Clean Architecture, NodeJS, Typescript and Laravel.
-
-### Recent repositories
-[Todux](https://github.com/leandrodaher/Todux) Todo App Arquitetura Flux
-
-ReactJS web application designed to study the basic concepts behind the Flux architecture using the Redux library.
-
-[Happy NLW3](https://github.com/leandrodaher/happy-nlw3) Backend + Web + Mobile project developed on Rocketseat's NLW3
-
-Study of Typescript, NodeJS, TypeORM, ReactJS, React Native and SQLite technologies.
+Hi, thanks for coming here! This is my personal studies profile. To see my professional profile [Click Here](https://github.com/dhrleandro)
+[https://github.com/dhrleandro](https://github.com/dhrleandro)
 
 -----------------
 
